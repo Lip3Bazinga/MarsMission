@@ -1,0 +1,12 @@
+# Saída de build
+bin/
+obj/
+
+# Arquivos de usuário do Visual Studio / Rider
+.vs/
+.idea/
+*.user
+*.suo
+
+# Documento da avaliação
+*.odt
